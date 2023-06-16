@@ -7,7 +7,7 @@ Olá! Sou João, um desenvolvedor Full Stack apaixonado por criar soluções ino
 👯 Tenho experiência em desenvolvimento web Full Stack, com destaque em AngularJS, Java e PostgreSql.\
 💻 Sou um desenvolvedor com preferência maior em Back-End do que Front-End.\
 🚀 Estou sempre em busca de novos desafios e oportunidades para crescer profissionalmente.\
-📖 Estudante do curso: Análise e Desenvolvimento de Sistemas.
+📖 Estudante do curso: Análise e Desenvolvimento de Sistemas.\
 🌍 Reconheço a importância do domínio do inglês no mundo da tecnologia e estou aprimorando minhas habilidades de comunicação e leitura.
 
 ## Habilidades Técnicas
