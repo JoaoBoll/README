@@ -5,7 +5,7 @@ Olá! Sou João, um desenvolvedor Full Stack apaixonado por criar soluções ino
 🔭 Atualmente, estou expandindo meus conhecimentos em tecnologias como ReactJS, React Native e NodeJs.\
 🌱 Estou constantemente aprendendo e me atualizando com as últimas tendências do setor.\
 👯 Tenho experiência em desenvolvimento web Full Stack, com destaque em AngularJS, Java e PostgreSql.\
-💻 Sou um desenvolvedor com preferência maior em Back-End do que Front-End, porém.\
+💻 Sou um desenvolvedor com preferência maior em Back-End do que Front-End.\
 🚀 Estou sempre em busca de novos desafios e oportunidades para crescer profissionalmente.\
 🌍 Reconheço a importância do domínio do inglês no mundo da tecnologia e estou aprimorando minhas habilidades de comunicação e leitura.
 
