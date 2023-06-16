@@ -1,13 +1,13 @@
-# Bem-vindo(a) ao meu perfil no GitHub!
-Olá! Sou João, um desenvolvedor Full Stack apaixonado por criar soluções inovadoras e funcionais. Estou empolgado em compartilhar meu trabalho e projetos neste espaço.
+# Bem-vindo(a)!!!
+Olá! Sou João, um desenvolvedor Full Stack apaixonado por criar soluções inovadoras e funcionais. Estou empolgado em compartilhar meus trabalhos e projetos neste espaço.
 
 ## Sobre mim
 🔭 Atualmente, estou expandindo meus conhecimentos em tecnologias como ReactJS, React Native e NodeJs.\
 🌱 Estou constantemente aprendendo e me atualizando com as últimas tendências do setor.\
 👯 Tenho experiência em desenvolvimento web Full Stack, com destaque em AngularJS, Java e PostgreSql.\
-💻 Busco soluções escaláveis e robustas para oferecer as melhores experiências aos usuários.\
+💻 Me considero um desenvolvedor mais Back-End do que Front-End.\
 🚀 Estou sempre em busca de novos desafios e oportunidades para crescer profissionalmente.\
-🌍 Reconheço a importância do domínio do inglês no mundo da tecnologia e estou aprimorando minhas habilidades de comunicação e leitura.\
+🌍 Reconheço a importância do domínio do inglês no mundo da tecnologia e estou aprimorando minhas habilidades de comunicação e leitura.
 
 
 ## Habilidades Técnicas
@@ -25,10 +25,16 @@ No momento, estou trabalhando na atualização deste perfil para refletir comple
 ## Entre em Contato
 Estou aberto(a) a oportunidades emocionantes e projetos desafiadores que me permitam expandir meu conhecimento e fazer a diferença no mundo do desenvolvimento de software. Se você está interessado(a) em colaborar ou conhecer mais sobre meu trabalho, por favor, não hesite em entrar em contato comigo.
 
-LinkedIn: [Linkedin](link do seu perfil)
-E-mail: [Seu endereço de e-mail]
+E-mail: joaovitorpianista@hotmail.com
+
 Estou animado(a) para conectar-me com outros desenvolvedores, compartilhar ideias e contribuir para o crescimento da comunidade de desenvolvimento.
 
 Vamos criar coisas incríveis juntos!
 
 Obrigado pela visita!
+
+"Um verdadeiro mestre, é um eterno aprendiz!" - Mestre Yi
+
+<a href="https://www.linkedin.com/in/seu-usuário-linkedln-aqui" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
+
