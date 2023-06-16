@@ -26,6 +26,7 @@ No momento, estou trabalhando na atualização deste perfil para refletir comple
 Estou aberto(a) a oportunidades emocionantes e projetos desafiadores que me permitam expandir meu conhecimento e fazer a diferença no mundo do desenvolvimento de software. Se você está interessado(a) em colaborar ou conhecer mais sobre meu trabalho, por favor, não hesite em entrar em contato comigo.
 
 E-mail: joaovitorpianista@hotmail.com
+Celular: (47) 9 8468-5084
 
 Estou animado(a) para conectar-me com outros desenvolvedores, compartilhar ideias e contribuir para o crescimento da comunidade de desenvolvimento.
 
