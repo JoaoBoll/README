@@ -17,7 +17,7 @@ Olá! Sou João, um desenvolvedor Full Stack apaixonado por criar soluções ino
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"  width="16" height="15"/> PostgreSql\
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"  width="16" height="15"/> ReactJS / React Native\
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="16" height="15"/> NodeJs\
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" width="16" height="15"/> NextJs\
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" width="16" height="15"/> NextJs
 
 ## Projetos
 No momento, estou trabalhando na atualização deste perfil para refletir completamente minha experiência profissional. Devido a questões de confidencialidade e propriedade intelectual, não pude publicar todos os meus projetos anteriores neste espaço público. No entanto, estou comprometido em criar e compartilhar novos projetos interessantes em breve.
