@@ -1,7 +1,7 @@
 # Bem-vindo(a)!!!
 Olá! Sou João, um desenvolvedor Full Stack apaixonado por criar soluções inovadoras e funcionais. Estou empolgado em compartilhar meus trabalhos e projetos neste espaço.
 
-## Sobre mim
+## Sobre
 🔭 Atualmente, estou expandindo meus conhecimentos em tecnologias como ReactJS, React Native e NodeJs.\
 🌱 Estou constantemente aprendendo e me atualizando com as últimas tendências do setor.\
 👯 Tenho experiência em desenvolvimento web Full Stack, com destaque em AngularJS, Java e PostgreSql.\
