@@ -9,6 +9,7 @@ Olá! Sou João, um desenvolvedor Full Stack apaixonado por criar soluções ino
 🚀 Estou sempre em busca de novos desafios e oportunidades para crescer profissionalmente.\
 📖 Estudante do curso: Análise e Desenvolvimento de Sistemas.\
 🌍 Reconheço a importância do domínio do inglês no mundo da tecnologia e estou aprimorando minhas habilidades de comunicação e leitura.
+🔤 Iniciado o curso de inglês rumo a fluência! (Times Idiomas)
 
 ## Habilidades Técnicas
 
