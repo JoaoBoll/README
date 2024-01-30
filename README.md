@@ -46,7 +46,9 @@ Obrigado pela visita!
 ![Snake animation](https://raw.githubusercontent.com/JoaoBoll/README/output/github-contribution-grid-snake-dark.svg)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JoaoBoll/README/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
+ <source media="(prefers-color-scheme: dark)" srcset="![Snake animation](https://raw.githubusercontent.com/JoaoBoll/README/output/github-contribution-grid-snake.svg)
+">
+ <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
+ <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
 </picture>
+
