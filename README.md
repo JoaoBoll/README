@@ -41,7 +41,7 @@ Obrigado pela visita!
 </div>
 
 <!-- Tema dark github -->
-![Snake animation](https://raw.githubusercontent.com/JoaoBoll/README/output/github-contribution-grid-snake.svg
+![Snake animation](https://raw.githubusercontent.com/JoaoBoll/README/output/github-contribution-grid-snake.svg)
 <!-- Tema dark github -->
 ![Snake animation](https://raw.githubusercontent.com/JoaoBoll/README/output/github-contribution-grid-snake-dark.svg)
 
