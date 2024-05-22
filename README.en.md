@@ -45,8 +45,15 @@ Thanks for visiting!
 <a href="https://www.linkedin.com/in/joão-vitor-boll-87b34859/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 ## Contribuições Github
+## Contribuições Github
 <center>
-    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=JoaoBoll&theme=dark&border_radius=15&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sun%2CSat&card_width=650&locale=en" alt="GitHub Streak" /></a>
+    <contribuitions>
+        <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=JoaoBoll&theme=dark&border_radius=15&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sun%2CSat&card_width=650&locale=en">
+            <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=JoaoBoll&theme=default&border_radius=15&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sun%2CSat&card_width=650&locale=en">
+            <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=JoaoBoll&theme=default&border_radius=15&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sun%2CSat&card_width=650&locale=pt_BR">
+        </picture>
+    </contribuitions>
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JoaoBoll/README/output/github-contribution-grid-snake-dark.svg">
         <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JoaoBoll/README/output/github-contribution-grid-snake.svg">
