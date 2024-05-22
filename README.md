@@ -3,9 +3,9 @@
 [Read in English](./README.en.md)
 
 <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=JoaoBoll&theme=onedark&title=Experience,Commits,Repositories&margin-w=15">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=JoaoBoll&title=Experience,Commits,Repositories&margin-w=15">
-    <img src="https://github-profile-trophy.vercel.app/?username=JoaoBoll&theme=onedark&title=Experience,Commits,Repositories&margin-w=15">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=JoaoBoll&theme=onedark&margin-w=15&title=Commits%2CExperience%2CRepositories">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=JoaoBoll&margin-w=15&title=Commits%2CExperience%2CRepositories">
+    <img src="https://github-profile-trophy.vercel.app/?username=JoaoBoll&margin-w=15&title=Commits%2CExperience%2CRepositories">
 </picture>
 
 Olá! Sou João, um desenvolvedor Full Stack apaixonado por criar soluções inovadoras e funcionais. Estou empolgado em compartilhar meus trabalhos e projetos neste espaço.
