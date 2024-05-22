@@ -2,7 +2,11 @@
 
 [Read in English](./README.en.md)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=JoaoBoll&theme=onedark&title=Experience,Commits,Repositories&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=JoaoBoll&theme=onedark&title=Experience,Commits,Repositories&margin-w=15">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=JoaoBoll&theme=nord&title=Experience,Commits,Repositories&margin-w=15">
+    <img src="https://github-profile-trophy.vercel.app/?username=JoaoBoll&theme=onedark&title=Experience,Commits,Repositories&margin-w=15">
+</picture>
 
 Olá! Sou João, um desenvolvedor Full Stack apaixonado por criar soluções inovadoras e funcionais. Estou empolgado em compartilhar meus trabalhos e projetos neste espaço.
 
