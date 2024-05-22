@@ -46,3 +46,4 @@ Obrigado pela visita!
  <img alt="YOUR-ALT-TEXT" src="https://raw.githubusercontent.com/JoaoBoll/README/output/github-contribution-grid-snake.svg">
 </picture>
 
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=JoaoBoll&border_radius=15&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sun%2CSat" alt="GitHub Streak" /></a>
