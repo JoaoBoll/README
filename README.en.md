@@ -44,7 +44,7 @@ Let's create amazing things together!
 
 Thanks for visiting!
 
-"A true master is an eternal apprentice!" - Master Yi
+"A true master is an eternal student!" - Master Yi
 
 <a href="https://www.linkedin.com/in/joão-vitor-boll-87b34859/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
