@@ -33,12 +33,7 @@ Hello! I'm João, a Full Stack developer passionate about creating innovative an
 Currently, I'm working on updating this profile to fully reflect my professional experience. Due to confidentiality and intellectual property issues, I couldn't publish all my previous projects in this public space. However, I am committed to creating and sharing new interesting projects soon.
 
 ## Contact
-I am open to opportunities and projects that allow me to expand my knowledge and make a difference in the software development world. If you are interested in collaborating or learning more about my work, please feel free to contact me.
-
-Email: joaovitorboll@outlook.com.br  
-Phone: +55 47 98468-5084
-
-I am excited to connect with other developers, share ideas, and contribute to the growth of the development community.
+I am open to opportunities and projects that allow me to expand my knowledge and make a difference in the software development world. If you are interested in collaborating or learning more about my work, please feel free to contact me (Linkedin).
 
 Let's create amazing things together!
 
