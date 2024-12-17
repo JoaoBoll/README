@@ -35,12 +35,7 @@ No momento, estou trabalhando na atualização deste perfil para refletir comple
 
 ## Entre em Contato
 
-Estou aberto(a) a oportunidades e projetos que me permitam expandir meu conhecimento e fazer a diferença no mundo do desenvolvimento de softwares. Se você está interessado(a) em colaborar ou conhecer mais sobre meu trabalho, por favor, não hesite em entrar em contato comigo.
-
-E-mail: joaovitorboll@outlook.com.br  
-Celular: +55 47 98468-5084
-
-Estou animado(a) para conectar-me com outros desenvolvedores, compartilhar ideias e contribuir para o crescimento da comunidade de desenvolvimento.
+Estou aberto(a) a oportunidades e projetos que me permitam expandir meu conhecimento e fazer a diferença no mundo do desenvolvimento de softwares. Se você está interessado(a) em colaborar ou conhecer mais sobre meu trabalho, por favor, não hesite em entrar em contato comigo (Linkedin).
 
 Vamos criar coisas incríveis juntos!
 
